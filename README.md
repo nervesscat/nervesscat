@@ -18,7 +18,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=Enrique-Madrid&style=flat-square&color=blue" alt=""/>
 
-👨‍🎓 I'm a systems engineering student at the Universidad Nacional Autonoma de Honduras.
+👨‍🎓 Systems engineering student at the Universidad Nacional Autonoma de Honduras.
 
 - 🔭 I’m currently working on Diaraist and Nervesscat webpage
 - 👯 I’m looking to collaborate on everyone (👉ﾟヮﾟ)👉
