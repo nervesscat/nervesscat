@@ -20,10 +20,8 @@
 
 👨‍🎓 I'm a systems engineering student at the Universidad Nacional Autonoma de Honduras.
 
-- 🔭 I’m currently working on Diaraist
-- 🌱 I’m currently learning Mongo DB
+- 🔭 I’m currently working on Diaraist and Nervesscat webpage
 - 👯 I’m looking to collaborate on everyone (👉ﾟヮﾟ)👉
-- 🤔 I’m looking for help with web design
 - 💬 Ask me about my first algorithm (was a java program for electoral votes of my pets, I made it when I was a kid lol)
 - 😄 Pronouns: they/them
 - ⚡ Fun fact: Besides my journal project I'm working on a videogame 🎮
