@@ -45,9 +45,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp;
 </div>
 
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Enrique-Madrid&theme=radical&border_radius=3.5)](https://git.io/streak-stats)
-
 🤖 I'm also an AI enthusiast and currently working on a personal project called an AI-Assisted Journal. The project is available for web and in the near future, to mobile. The goal of the project is to provide an AI-powered platform to help users keep track of their daily tasks, thoughts, and emotions. The platform uses machine learning algorithms to provide personalized insights and recommendations to users, also I have extensive experience creating chatbots for Discord servers. I've created many chatbots that automate various tasks, including moderation, music playing, and more.
 
 ## What I'm currently working on
