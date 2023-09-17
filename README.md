@@ -28,6 +28,8 @@
 
 💻 I have a passion for programming and love exploring new technologies. I have hands-on experience in various technologies including:
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nervesscat&theme=tokyonight)
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue" alt="Vue" width="40" height="40"/>&nbsp;
