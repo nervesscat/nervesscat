@@ -16,6 +16,8 @@
   </a>
 </div>
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R4PBEY4)
+
 <img src="https://komarev.com/ghpvc/?username=Enrique-Madrid&style=flat-square&color=blue" alt=""/>
 
 👨‍🎓 Systems engineering student at the Universidad Nacional Autonoma de Honduras.
