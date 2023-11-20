@@ -59,7 +59,7 @@
 
 📚 I'm currently learning more about machine learning algorithms and natural language processing to further develop the AI-Assisted Journal project.
 
-## How to reach me
+## How to reach me out
 
 📧 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/marlon-enrique-avila-madrid-76154b238/) if you have any questions or would like to connect. I'm always open to new opportunities and collaborations.
 
