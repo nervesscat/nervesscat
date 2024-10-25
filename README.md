@@ -8,23 +8,20 @@
 </h1>
 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/marlon-enrique-avila-madrid-76154b238/">
+  <a href="https://www.linkedin.com/in/enrique-madrid-76154b238">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="http://nervesscat.web.app/">
+  <a href="http://www.nervess.cat/">
     <img src="https://img.shields.io/badge/Portfolio-purple?style=for-the-badge&logo=&logoColor=white" alt="Portfolio Badge"/>
   </a>
 </div>
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R4PBEY4)
 
 <img src="https://komarev.com/ghpvc/?username=Enrique-Madrid&style=flat-square&color=blue" alt=""/>
 
 👨‍🎓 Systems engineering student at the Universidad Nacional Autonoma de Honduras.
 
-- 🔭 I’m currently working on Diaraist and Nervesscat webpage
+- 🔭 I’m currently working on Ecoo and Nervesscat webpage
 - 👯 I’m looking to collaborate on everyone (👉ﾟヮﾟ)👉
-- 💬 Ask me about my first algorithm (was a java program for electoral votes of my pets, I made it when I was a kid lol)
 - 😄 Pronouns: they/them
 - ⚡ Fun fact: Besides my journal project I'm working on a videogame 🎮
 
@@ -49,11 +46,9 @@
 
 ![nervesscat's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nervesscat&theme=shades-of-purple&show_icons=true&hide_border=false&layout=compact)
 
-🤖 I'm also an AI enthusiast and currently working on a personal project called an AI-Assisted Journal. The project is available for web and in the near future, to mobile. The goal of the project is to provide an AI-powered platform to help users keep track of their daily tasks, thoughts, and emotions. The platform uses machine learning algorithms to provide personalized insights and recommendations to users, also I have extensive experience creating chatbots for Discord servers. I've created many chatbots that automate various tasks, including moderation, music playing, and more.
-
 ## What I'm currently working on
 
-🌟 Apart from the AI-Assisted Journal, I'm also working on my personal portfolio website to showcase my skills and projects. I'm also contributing to open-source projects on GitHub to improve my skills and knowledge.
+🌟 Apart from the AI-Assisted Journal, I'm also working on my personal portfolio website to showcase my skills and projects. I'm also contributing creating open-source projects on GitHub to improve my skills and knowledge.
 
 ## What I'm currently learning
 
@@ -61,6 +56,6 @@
 
 ## How to reach me out
 
-📧 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/marlon-enrique-avila-madrid-76154b238/) if you have any questions or would like to connect. I'm always open to new opportunities and collaborations.
+📧 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/enrique-madrid-76154b238/) if you have any questions or would like to connect. I'm always open to new opportunities and collaborations.
 
-My webpage is [Nervesscat](https://nervesscat.web.app)
+My webpage is [Nervesscat](https://www.nervess.cat)
